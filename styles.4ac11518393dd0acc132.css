@@ -1,0 +1,1 @@
+h1{font-size:1.5em;font-weight:700;text-align:center;background-color:#0ff}h3{font-size:.75em;font-style:italic;text-align:center}.gridArea{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto;grid-template-areas:"details pic";grid-gap:10px}.details{grid-area:details;background-color:#f0f8ff}.pic{grid-area:pic;background-color:#f0f8ff}
